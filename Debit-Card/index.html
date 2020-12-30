@@ -3,56 +3,37 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Glasmorphism Effect Three Cards</title>
+  <title>Glasmorphism Effect Debit Card</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="container">
+  <section>
     <div class="card">
-      <div class="content">
-        <h2>01</h2>
-        <h3>Card One</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit
-          eligendi quas voluptatem impedit culpa sunt, nam ducimus recusandae.
-          Commodi tempora quam aliquam corrupti minima, veritatis provident quo
-          nam incidunt ipsa!
+      <div class="face front">
+        <h3 class="debit">Debit Card</h3>
+        <h3 class="bank">Capital One</h3>
+        <img src="chip.png" class="chip" alt="chip">
+        <h3 class="number">1234 5678 9012 3456</h3>
+        <h5 class="valid"><span>Valid<br>thru</span><span>1/23</span></h5>
+        <h5 class="cardHolder">Dean A Stratakos</h5>
+      </div>
+      <div class="face back">
+        <div class="blackbar"></div>
+        <div class="ccvtext">
+          <h5>Authorized Signature - not valid unless signed</h5>
+          <div class="whiteBar"></div>
+          <div class="ccv">123</div>
+        </div>
+        <p class="text">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque harum
+          iure pariatur non nobis ipsam praesentium illo aspernatur dolore
+          adipisci consequuntur fugit officia vero atque accusamus quod, beatae
+          at nam? Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Reiciendis quasi nemo autem ab ad esse iusto veniam ex, quae eveniet.
+          Hic, aliquid totam doloremque quaerat a fuga eligendi facere omnis?
         </p>
-        <a href="#">Read More</a>
       </div>
     </div>
-    <div class="card">
-      <div class="content">
-        <h2>02</h2>
-        <h3>Card Two</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit
-          eligendi quas voluptatem impedit culpa sunt, nam ducimus recusandae.
-          Commodi tempora quam aliquam corrupti minima, veritatis provident quo
-          nam incidunt ipsa!
-        </p>
-        <a href="#">Read More</a>
-      </div>
-    </div>
-    <div class="card">
-      <div class="content">
-        <h2>03</h2>
-        <h3>Card Three</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit
-          eligendi quas voluptatem impedit culpa sunt, nam ducimus recusandae.
-          Commodi tempora quam aliquam corrupti minima, veritatis provident quo
-          nam incidunt ipsa!
-        </p>
-        <a href="#">Read More</a>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript" src="vanilla-tilt.js"></script>
-  <script>
-    VanillaTilt.init(document.querySelectorAll(".card"), {
-      max: 25,
-      speed: 400,
-      glare: true,
-      "max-glare": 0.5,
-    });
-  </script>
+  </section>
 </body>
 </html>

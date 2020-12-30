@@ -7,15 +7,15 @@
 This repository is a collection of [glassmorphism](https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9)
 effects to experiment with different use cases.
 
-<div style="align-items: center; text-align: center;">
+<div align="center">
     <h4>Debit card with flip animation</h4>
-    <img style="width: 600px" src="demos/Debit-Card.gif" alt="Debit card with flip animation">
+    <img width="600" src="demos/Debit-Card.gif" alt="Debit card with flip animation">
     <h4>Animated cards</h4>
-    <img style="width: 600px" src="demos/Three-Cards.gif" alt="Animated cards">
+    <img width="600" src="demos/Three-Cards.gif" alt="Animated cards">
     <h4>Frosted glass floating panel</h4>
-    <img style="width: 600px" src="demos/Frosted-Glass.gif" alt="Frosted glass floating panel">
+    <img width="600" src="demos/Frosted-Glass.gif" alt="Frosted glass floating panel">
     <h4>iPhone product page</h4>
-    <img style="width: 600px" src="demos/iPhone.png" alt="iPhone product page">
+    <img width="600" src="demos/iPhone.png" alt="iPhone product page">
 </div>
 
 ## Inspiration

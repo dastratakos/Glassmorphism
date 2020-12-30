@@ -10,12 +10,14 @@ effects to experiment with different use cases.
 <div align="center">
     <h4>Debit card with flip animation</h4>
     <img width="600" src="demos/Debit-Card.gif" alt="Debit card with flip animation">
-    <h4>Animated cards</h4>
-    <img width="600" src="demos/Three-Cards.gif" alt="Animated cards">
     <h4>Frosted glass floating panel</h4>
     <img width="600" src="demos/Frosted-Glass.gif" alt="Frosted glass floating panel">
+    <h4>Contact cards</h4>
+    <img width="600" src="demos/Contact-Cards.gif" alt="Contact cards">
     <h4>iPhone product page</h4>
     <img width="600" src="demos/iPhone.png" alt="iPhone product page">
+    <h4>Animated cards</h4>
+    <img width="600" src="demos/Three-Cards.gif" alt="Animated cards">
 </div>
 
 ## Inspiration

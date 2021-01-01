@@ -12,6 +12,8 @@ effects to experiment with different use cases.
     <img width="600" src="demos/Landing-Page.gif" alt="Landing page">
     <h4>Contact cards</h4>
     <img width="600" src="demos/Contact-Cards-2.gif" alt="Contact cards">
+    <h4>Calculator</h4>
+    <img width="600" src="demos/Calculator.gif" alt="Calcuator">
     <h4>Debit card with flip animation</h4>
     <img width="600" src="demos/Debit-Card.gif" alt="Debit card with flip animation">
     <h4>Frosted glass floating panel</h4>
@@ -39,3 +41,5 @@ effects to experiment with different use cases.
 6. [Glassmorphism Product card Design using HTML and CSS](https://www.youtube.com/watch?v=BwNoYkiq6v4)
 
 7. [CSS Glass Morphism User Card Interactions | Glassmorphism UI Design](https://www.youtube.com/watch?v=TN4DoHiWrQQ)
+
+8. [How to make Calculator With JavaScript | CSS Glassmorphism Effects | Glass morphism](https://www.youtube.com/watch?v=NhcZh8Bwr30)

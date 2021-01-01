@@ -26,7 +26,7 @@ effects to experiment with different use cases.
     <img width="600" src="demos/Three-Cards.gif" alt="Animated cards">
 </div>
 
-## Inspiration
+## Resources
 
 1. [Real Glassmorphism Card Hover Effects](https://youtu.be/hv0rNxr1XXk)
 
@@ -43,3 +43,5 @@ effects to experiment with different use cases.
 7. [CSS Glass Morphism User Card Interactions | Glassmorphism UI Design](https://www.youtube.com/watch?v=TN4DoHiWrQQ)
 
 8. [How to make Calculator With JavaScript | CSS Glassmorphism Effects | Glass morphism](https://www.youtube.com/watch?v=NhcZh8Bwr30)
+
+9. [How to build a calculator - part 2](https://zellwk.com/blog/calculator-part-2/?ck_subscriber_id=1122863103)

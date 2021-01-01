@@ -58,6 +58,7 @@ body {
 
 .container .card:hover .content {
   bottom: 0;
+  transition-delay: 0s;
 }
 
 .container .card .imgBox {

@@ -33,3 +33,5 @@ effects to experiment with different use cases.
 5. [Build A Responsive Website with Animation From Scratch using Html CSS & Javascript](https://youtu.be/YRAoM4-Eb4A)
 
 6. [Glassmorphism Product card Design using HTML and CSS](https://www.youtube.com/watch?v=BwNoYkiq6v4)
+
+7. [CSS Glass Morphism User Card Interactions | Glassmorphism UI Design](https://www.youtube.com/watch?v=TN4DoHiWrQQ)

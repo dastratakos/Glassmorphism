@@ -3,7 +3,7 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   font-family: 'Poppins', sans-serif;
 }
 
@@ -13,7 +13,7 @@ body {
   align-items: center;
   flex-wrap: wrap;
   min-height: 100vh;
-  background: #161623;
+  background: #e0f7fa;
 }
 
 .hero {

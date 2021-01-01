@@ -10,10 +10,10 @@ effects to experiment with different use cases.
 <div align="center">
     <h4>Landing page</h4>
     <img width="600" src="demos/Landing-Page.gif" alt="Landing page">
-    <h4>Contact cards</h4>
-    <img width="600" src="demos/Contact-Cards-2.gif" alt="Contact cards">
     <h4>Calculator</h4>
     <img width="600" src="demos/Calculator.gif" alt="Calcuator">
+    <h4>Contact cards</h4>
+    <img width="600" src="demos/Contact-Cards-2.gif" alt="Contact cards">
     <h4>Debit card with flip animation</h4>
     <img width="600" src="demos/Debit-Card.gif" alt="Debit card with flip animation">
     <h4>Frosted glass floating panel</h4>

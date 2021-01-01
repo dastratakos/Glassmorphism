@@ -90,6 +90,10 @@ body:after {
   background: rgba(255, 255, 255, 0.05);
 }
 
+.container .calculator span.colored:hover {
+  background: rgba(255, 131, 0, 1);
+}
+
 .container .calculator span:active {
   background: #14ff47;
   color: #192f00;
@@ -97,17 +101,19 @@ body:after {
   font-weight: 500;
 }
 
-.container .calculator .clear {
+.container .calculator .num {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.container .calculator .dark {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.container .calculator .colored {
+  background: rgba(255, 131, 0, 0.5);
+}
+
+.container .calculator .zero {
   grid-column: span 2;
   width: 150px;
-  background: rgba(255, 255, 255, 0.05);
-}
-
-.container .calculator .plus {
-  grid-row: span 2;
-  height: 150px;
-}
-
-.container .calculator .equals {
-  background: rgba(255, 255, 255, 0.05);
 }
